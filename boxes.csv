@@ -1,0 +1,291 @@
+BOX_ID,QUALITY,DELIVERY_OPTION,MILK,MEAT,UNIT_PRICE
+1,Premium,Home Delivery - CoD,0,2.7,9.96
+2,Premium,Home Delivery - CoD,0,2.3,11.96
+3,Premium,Home Delivery - CoD,0,2.4,11.96
+4,Premium,Home Delivery - CoD,0,2.5,11.96
+5,Premium,Home Delivery - CoD,0,2.6,11.96
+6,Premium,Home Delivery - CoD,0,2.7,11.96
+7,Premium,Home Delivery - CoD,0,2.8,11.96
+8,Premium,Home Delivery - CoD,10,0,12.18
+9,Premium,Home Delivery - CoD,10.5,0,12.78
+10,Premium,Home Delivery - CoD,8,1.3,12.98
+11,Premium,Home Delivery - CoD,8,1.4,12.98
+12,Premium,Home Delivery - CoD,8,1.5,12.98
+13,Premium,Home Delivery - CoD,8,1.6,12.98
+14,Premium,Home Delivery - CoD,8,1.8,12.98
+15,Premium,Home Delivery - CoD,9,1.6,12.98
+16,Premium,Home Delivery - CoD,10,1.5,12.98
+17,Premium,Home Delivery - CoD,10,1.8,12.98
+18,Premium,Home Delivery - CoD,10,2.7,12.98
+19,Premium,Home Delivery - CoD,11,2.4,12.98
+20,Premium,Home Delivery - CoD,11,2.7,12.98
+21,Premium,Home Delivery - CoD,11,2.9,12.98
+22,Premium,Home Delivery - CoD,11,3.1,12.98
+23,Premium,Home Delivery - CoD,0,2.4,13.96
+24,Premium,Home Delivery - CoD,0,2.5,13.96
+25,Premium,Home Delivery - CoD,0,2.7,13.96
+26,Premium,Home Delivery - CoD,0,4,15.96
+27,Premium,Home Delivery - CoD,0,2.9,15.96
+28,Premium,Home Delivery - CoD,0,3.3,15.96
+29,Premium,Home Delivery - CoD,0,3.6,15.96
+30,Premium,Home Delivery - CoD,0,4.4,15.96
+31,Premium,Home Delivery - CoD,8,1.3,15.98
+32,Premium,Home Delivery - CoD,8,1.5,15.98
+33,Premium,Home Delivery - CoD,9,1.5,15.98
+34,Premium,Home Delivery - CoD,10,2,15.98
+35,Premium,Home Delivery - CoD,10,1.5,15.98
+36,Premium,Home Delivery - CoD,10,1.6,15.98
+37,Premium,Home Delivery - CoD,12,2.2,15.98
+38,Premium,Home Delivery - CoD,10,1.8,19.98
+39,Premium,Home Delivery - CoD,10,2.2,19.98
+40,Premium,Home Delivery - CoD,12,1.8,19.98
+41,Premium,Home Delivery - CoD,12,2.2,19.98
+42,Premium,Home Delivery - CoD,15,1.8,19.98
+43,Premium,Home Delivery - CoD,16,2,19.98
+44,Premium,Home Delivery - CoD,16,1.8,19.98
+45,Premium,Home Delivery - CoD,16,2.2,19.98
+46,Premium,Home Delivery - CoD,18,2.9,19.98
+47,Premium,Home Delivery - CoD,12,2.5,23.98
+48,Premium,Home Delivery - CoD,12,3.3,23.98
+49,Premium,Home Delivery - CoD,15,2.5,23.98
+50,Premium,Home Delivery - CoD,16,2.9,23.98
+51,Premium,Home Delivery - CoD,18,2.9,23.98
+52,Premium,Delivery from Collection Point,1,2.7,15
+53,Premium,Delivery from Collection Point,10,0.1,15
+54,Premium,Delivery from Collection Point,10,0.2,15
+55,Premium,Delivery from Collection Point,10,0.3,15
+56,Premium,Delivery from Collection Point,10,3.6,15
+57,Premium,Delivery from Collection Point,0,5,5.56
+58,Premium,Delivery from Collection Point,0,2.3,5.56
+59,Premium,Delivery from Collection Point,0,2.4,5.56
+60,Premium,Delivery from Collection Point,0,2.6,5.56
+61,Premium,Delivery from Collection Point,0,2.5,9.96
+62,Premium,Delivery from Collection Point,0,2.9,9.96
+63,Premium,Delivery from Collection Point,0,3.3,9.96
+64,Premium,Delivery from Collection Point,0,3.6,9.96
+65,Premium,Delivery from Collection Point,8,1.1,9.98
+66,Premium,Delivery from Collection Point,8,1.2,9.98
+67,Premium,Delivery from Collection Point,9,1.1,9.98
+68,Premium,Delivery from Collection Point,9,1.2,9.98
+69,Premium,Delivery from Collection Point,9,1.3,9.98
+70,Premium,Delivery from Collection Point,10,1.1,9.98
+71,Premium,Delivery from Collection Point,10,1.2,9.98
+72,Premium,Delivery from Collection Point,10,1.3,9.98
+73,Premium,Delivery from Collection Point,8.5,1.2,9.98
+74,Premium,Delivery from Collection Point,0,3,11.96
+75,Premium,Delivery from Collection Point,0,2.3,11.96
+76,Premium,Delivery from Collection Point,0,2.4,11.96
+77,Premium,Delivery from Collection Point,0,2.5,11.96
+78,Premium,Delivery from Collection Point,0,2.7,11.96
+79,Premium,Delivery from Collection Point,0,2.8,11.96
+80,Premium,Delivery from Collection Point,0,2.9,11.96
+81,Premium,Delivery from Collection Point,0,3.1,11.96
+82,Premium,Delivery from Collection Point,0,3.2,11.96
+83,Premium,Delivery from Collection Point,0,3.5,11.96
+84,Premium,Delivery from Collection Point,0,3.6,11.96
+85,Premium,Delivery from Collection Point,0,3.7,11.96
+86,Premium,Delivery from Collection Point,0,3.8,11.96
+87,Premium,Delivery from Collection Point,0,3.9,11.96
+88,Premium,Delivery from Collection Point,0,4.1,11.96
+89,Premium,Delivery from Collection Point,10,0,12.18
+90,Premium,Delivery from Collection Point,10.5,0,12.78
+91,Premium,Delivery from Collection Point,5,2.4,12.98
+92,Premium,Delivery from Collection Point,5,2.7,12.98
+93,Premium,Delivery from Collection Point,5,3.1,12.98
+94,Premium,Delivery from Collection Point,0,2.4,13.96
+95,Premium,Delivery from Collection Point,0,2.5,13.96
+96,Premium,Delivery from Collection Point,0,2.7,13.96
+97,Premium,Delivery from Collection Point,0,2.9,13.96
+98,Premium,Delivery from Collection Point,0,3.1,13.96
+99,Premium,Delivery from Collection Point,0,3.3,13.96
+100,Premium,Delivery from Collection Point,0,3.5,13.96
+101,Premium,Delivery from Collection Point,0,3.6,13.96
+102,Premium,Delivery from Collection Point,0,5.3,13.96
+103,Premium,Delivery from Collection Point,0,4,15.96
+104,Premium,Delivery from Collection Point,0,2.9,15.96
+105,Premium,Delivery from Collection Point,0,3.1,15.96
+106,Premium,Delivery from Collection Point,0,3.3,15.96
+107,Premium,Delivery from Collection Point,0,3.5,15.96
+108,Premium,Delivery from Collection Point,0,3.6,15.96
+109,Premium,Delivery from Collection Point,0,4.2,15.96
+110,Premium,Delivery from Collection Point,0,4.4,15.96
+111,Premium,Delivery from Collection Point,0,4.7,15.96
+112,Premium,Delivery from Collection Point,0,5.1,15.96
+113,Premium,Delivery from Collection Point,0,5.8,15.96
+114,Premium,Delivery from Collection Point,6,4,15.98
+115,Premium,Delivery from Collection Point,6,2.5,15.98
+116,Premium,Delivery from Collection Point,7,1.5,15.98
+117,Premium,Delivery from Collection Point,7,1.8,15.98
+118,Premium,Delivery from Collection Point,8,1.3,15.98
+119,Premium,Delivery from Collection Point,8,1.5,15.98
+120,Premium,Delivery from Collection Point,8,1.6,15.98
+121,Premium,Delivery from Collection Point,8,1.8,15.98
+122,Premium,Delivery from Collection Point,9,1.3,15.98
+123,Premium,Delivery from Collection Point,9,1.5,15.98
+124,Premium,Delivery from Collection Point,9,1.6,15.98
+125,Premium,Delivery from Collection Point,10,2,15.98
+126,Premium,Delivery from Collection Point,10,1.5,15.98
+127,Premium,Delivery from Collection Point,10,1.6,15.98
+128,Premium,Delivery from Collection Point,10,1.8,15.98
+129,Premium,Delivery from Collection Point,12,2.2,15.98
+130,Premium,Delivery from Collection Point,15,0,17.98
+131,Premium,Delivery from Collection Point,9,1.6,19.98
+132,Premium,Delivery from Collection Point,9,1.8,19.98
+133,Premium,Delivery from Collection Point,10,2,19.98
+134,Premium,Delivery from Collection Point,10,1.8,19.98
+135,Premium,Delivery from Collection Point,10,2.2,19.98
+136,Premium,Delivery from Collection Point,12,2,19.98
+137,Premium,Delivery from Collection Point,12,1.8,19.98
+138,Premium,Delivery from Collection Point,13,1.8,19.98
+139,Premium,Delivery from Collection Point,14,2,19.98
+140,Premium,Delivery from Collection Point,14,1.8,19.98
+141,Premium,Delivery from Collection Point,15,1.8,19.98
+142,Premium,Delivery from Collection Point,16,2,19.98
+143,Premium,Delivery from Collection Point,16,1.8,19.98
+144,Premium,Delivery from Collection Point,16,2.2,19.98
+145,Premium,Delivery from Collection Point,16,2.4,19.98
+146,Premium,Delivery from Collection Point,16,2.5,19.98
+147,Premium,Delivery from Collection Point,17,2,19.98
+148,Premium,Delivery from Collection Point,17,1.8,19.98
+149,Premium,Delivery from Collection Point,17,2.2,19.98
+150,Premium,Delivery from Collection Point,17,2.4,19.98
+151,Premium,Delivery from Collection Point,18,2,19.98
+152,Premium,Delivery from Collection Point,18,1.8,19.98
+153,Premium,Delivery from Collection Point,18,2.2,19.98
+154,Premium,Delivery from Collection Point,19,2,19.98
+155,Premium,Delivery from Collection Point,19,2.2,19.98
+156,Premium,Delivery from Collection Point,20,1.8,19.98
+157,Premium,Delivery from Collection Point,20,2.2,19.98
+158,Premium,Delivery from Collection Point,20,2.4,19.98
+159,Premium,Delivery from Collection Point,20,2.5,19.98
+160,Premium,Delivery from Collection Point,22,2,19.98
+161,Premium,Delivery from Collection Point,22,1.8,19.98
+162,Premium,Delivery from Collection Point,10,2.2,23.98
+163,Premium,Delivery from Collection Point,11,2.2,23.98
+164,Premium,Delivery from Collection Point,12,2.2,23.98
+165,Premium,Delivery from Collection Point,12,2.5,23.98
+166,Premium,Delivery from Collection Point,12,2.9,23.98
+167,Premium,Delivery from Collection Point,12,3.3,23.98
+168,Premium,Delivery from Collection Point,12,3.6,23.98
+169,Premium,Delivery from Collection Point,14,2.9,23.98
+170,Premium,Delivery from Collection Point,15,2.5,23.98
+171,Premium,Delivery from Collection Point,15,2.9,23.98
+172,Premium,Delivery from Collection Point,16,2.2,23.98
+173,Premium,Delivery from Collection Point,18,2.5,23.98
+174,Premium,Delivery from Collection Point,18,2.9,23.98
+175,Premium,Delivery from Collection Point,24,3.3,23.98
+176,Premium,Home Delivery - Digital Payment,0,2.4,5.56
+177,Premium,Home Delivery - Digital Payment,10,0,12.18
+178,Premium,Home Delivery - Digital Payment,10.5,0,12.78
+179,Premium,Home Delivery - Digital Payment,0,2.4,13.96
+180,Premium,Home Delivery - Digital Payment,0,2.7,13.96
+181,Premium,Home Delivery - Digital Payment,0,4,15.96
+182,Premium,Home Delivery - Digital Payment,0,2.9,15.96
+183,Premium,Home Delivery - Digital Payment,0,3.1,15.96
+184,Premium,Home Delivery - Digital Payment,0,3.3,15.96
+185,Premium,Home Delivery - Digital Payment,0,3.6,15.96
+186,Premium,Home Delivery - Digital Payment,8,1.3,15.98
+187,Premium,Home Delivery - Digital Payment,9,1.6,15.98
+188,Premium,Home Delivery - Digital Payment,12,2,15.98
+189,Premium,Home Delivery - Digital Payment,13,2.2,15.98
+190,Premium,Home Delivery - Digital Payment,10,1.8,19.98
+191,Premium,Home Delivery - Digital Payment,12,2,19.98
+192,Premium,Home Delivery - Digital Payment,12,1.8,19.98
+193,Premium,Home Delivery - Digital Payment,14,2,19.98
+194,Premium,Home Delivery - Digital Payment,15,1.8,19.98
+195,Premium,Home Delivery - Digital Payment,16,2,19.98
+196,Premium,Home Delivery - Digital Payment,16,1.8,19.98
+197,Premium,Home Delivery - Digital Payment,16,2.2,19.98
+198,Standard,Home Delivery - CoD,8.1,0,9.96
+199,Standard,Home Delivery - CoD,8.3,0,9.96
+200,Standard,Home Delivery - CoD,8.4,0,10.14
+201,Standard,Home Delivery - CoD,8.5,0,10.14
+202,Standard,Home Delivery - CoD,10,0,12.18
+203,Standard,Home Delivery - CoD,10.2,0,12.18
+204,Standard,Home Delivery - CoD,10.7,0,12.78
+205,Standard,Home Delivery - CoD,0,2.4,13.96
+206,Standard,Home Delivery - CoD,0,2.5,13.96
+207,Standard,Home Delivery - CoD,0,2.7,13.96
+208,Standard,Home Delivery - CoD,0,2.9,13.96
+209,Standard,Home Delivery - CoD,0,4,15.96
+210,Standard,Home Delivery - CoD,0,2.9,15.96
+211,Standard,Home Delivery - CoD,0,3.1,15.96
+212,Standard,Home Delivery - CoD,0,3.3,15.96
+213,Standard,Home Delivery - CoD,0,3.6,15.96
+214,Standard,Home Delivery - CoD,0,4.4,15.96
+215,Standard,Home Delivery - CoD,7,2.5,17.98
+216,Standard,Home Delivery - CoD,10,1.8,17.98
+217,Standard,Home Delivery - CoD,10,2.5,17.98
+218,Standard,Home Delivery - CoD,11,2.5,17.98
+219,Standard,Home Delivery - CoD,12,1.8,19.98
+220,Standard,Home Delivery - CoD,16,2.2,19.98
+221,Standard,Home Delivery - CoD,18,2.9,23.98
+222,Standard,Delivery from Collection Point,10,0,12
+223,Standard,Delivery from Collection Point,0,2.9,15
+224,Standard,Delivery from Collection Point,10,0.4,15
+225,Standard,Delivery from Collection Point,0,2.5,9.94
+226,Standard,Delivery from Collection Point,0,2.9,9.94
+227,Standard,Delivery from Collection Point,8.1,0,9.96
+228,Standard,Delivery from Collection Point,8.3,0,9.96
+229,Standard,Delivery from Collection Point,8.4,0,9.96
+230,Standard,Delivery from Collection Point,8.4,0,10.14
+231,Standard,Delivery from Collection Point,8.5,0,10.14
+232,Standard,Delivery from Collection Point,0,2.4,11.96
+233,Standard,Delivery from Collection Point,10,0,12.18
+234,Standard,Delivery from Collection Point,10,0.1,12.18
+235,Standard,Delivery from Collection Point,10,0.2,12.18
+236,Standard,Delivery from Collection Point,10,0.3,12.18
+237,Standard,Delivery from Collection Point,10.2,0,12.18
+238,Standard,Delivery from Collection Point,10.7,0,12.78
+239,Standard,Delivery from Collection Point,7,2.9,12.96
+240,Standard,Delivery from Collection Point,4.5,2.3,12.96
+241,Standard,Delivery from Collection Point,4.5,2.4,12.96
+242,Standard,Delivery from Collection Point,4.5,2.7,12.96
+243,Standard,Delivery from Collection Point,4.5,3.1,12.96
+244,Standard,Delivery from Collection Point,0,4,13.96
+245,Standard,Delivery from Collection Point,0,2.4,13.96
+246,Standard,Delivery from Collection Point,0,2.5,13.96
+247,Standard,Delivery from Collection Point,0,2.7,13.96
+248,Standard,Delivery from Collection Point,0,2.9,13.96
+249,Standard,Delivery from Collection Point,0,3.1,13.96
+250,Standard,Delivery from Collection Point,0,3.3,13.96
+251,Standard,Delivery from Collection Point,0,4,15.96
+252,Standard,Delivery from Collection Point,0,2.9,15.96
+253,Standard,Delivery from Collection Point,0,3.1,15.96
+254,Standard,Delivery from Collection Point,0,3.3,15.96
+255,Standard,Delivery from Collection Point,0,3.6,15.96
+256,Standard,Delivery from Collection Point,0,4.4,15.96
+257,Standard,Delivery from Collection Point,0,5.8,15.96
+258,Standard,Delivery from Collection Point,8,2.2,17.98
+259,Standard,Delivery from Collection Point,9,2.2,17.98
+260,Standard,Delivery from Collection Point,10,1.8,17.98
+261,Standard,Delivery from Collection Point,10,2.2,17.98
+262,Standard,Delivery from Collection Point,10,2.5,17.98
+263,Standard,Delivery from Collection Point,11,2.2,17.98
+264,Standard,Delivery from Collection Point,13,2.2,17.98
+265,Standard,Delivery from Collection Point,10,2,19.98
+266,Standard,Delivery from Collection Point,10,1.8,19.98
+267,Standard,Delivery from Collection Point,12,2,19.98
+268,Standard,Delivery from Collection Point,12,1.8,19.98
+269,Standard,Delivery from Collection Point,12,2.2,19.98
+270,Standard,Delivery from Collection Point,16,2,19.98
+271,Standard,Delivery from Collection Point,16,1.8,19.98
+272,Standard,Delivery from Collection Point,16,2.2,19.98
+273,Standard,Delivery from Collection Point,20,1.8,19.98
+274,Standard,Delivery from Collection Point,20,2.2,19.98
+275,Standard,Delivery from Collection Point,12,2.9,23.98
+276,Standard,Delivery from Collection Point,18,2.9,23.98
+277,Standard,Home Delivery - Digital Payment,8.4,0,10.14
+278,Standard,Home Delivery - Digital Payment,8.5,0,10.14
+279,Standard,Home Delivery - Digital Payment,10,0,12.18
+280,Standard,Home Delivery - Digital Payment,10.2,0,12.18
+281,Standard,Home Delivery - Digital Payment,10.7,0,12.78
+282,Standard,Home Delivery - Digital Payment,9,2,12.96
+283,Standard,Home Delivery - Digital Payment,0,2.4,13.96
+284,Standard,Home Delivery - Digital Payment,0,2.5,13.96
+285,Standard,Home Delivery - Digital Payment,0,2.7,13.96
+286,Standard,Home Delivery - Digital Payment,0,4,15.96
+287,Standard,Home Delivery - Digital Payment,0,2.9,15.96
+288,Standard,Home Delivery - Digital Payment,0,3.6,15.96
+289,Standard,Home Delivery - Digital Payment,0,4.7,15.96
+290,Standard,Home Delivery - Digital Payment,12,1.8,19.98
